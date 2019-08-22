@@ -1,5 +1,5 @@
 # argos-mpris
-Show mpris playing information (e.g. YouTube being played in Chrome) in gnome menu bar via [argos](//github.com/p-e-w/argos).
+Show mpris playing information (e.g. YouTube being played in Chrome) in gnome menu bar via [argos](//github.com/p-e-w/argos). Give thanks to repo [giedriusStan/argos-mpris](https://github.com/giedriusStan/argos-mpris).
 
 ![screenshot](screenshot.png)
 
@@ -15,7 +15,7 @@ Show mpris playing information (e.g. YouTube being played in Chrome) in gnome me
 # References
 
 1. Argos: https://github.com/p-e-w/argos
-2. Argos-mpris for spotify: https://github.com/giedriusStan/argos-mpris
+2. giedriusStan/argos-mpris: https://github.com/giedriusStan/argos-mpris
 3. Install brower-mpris2: https://www.linuxuprising.com/2018/08/add-youtube-player-controls-to-your.html
 4. browser-mpris2: https//github.com/otommod/browser-mpris2
 5. DBUS Tutorial: https://dbus.freedesktop.org/doc/dbus-python/tutorial.html
